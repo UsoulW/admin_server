@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://gz-cynosdbmysql-grp-9w662yr5.sql.tencentcdb.com:22243/admin?serverTimezone=UTC&useUnicode=true&characterEncoding=UTF-8
+    username: lwb
+    password: Lwb781259304
+
+admin:
+  pkey: 54222913e45aed8f70a1e59bde4e29e2
